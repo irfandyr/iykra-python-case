@@ -1,0 +1,8 @@
+id;insert_time;tx_amount;tx_type;status
+1;9.00;10;buy;open
+2;9.01;100;buy;done
+2;10.00;123;sell;done
+3;9.05;41;buy;open
+4;10.05;50;sell;done
+5;11.30;24;buy;open
+5;13.01;21;buy;open
